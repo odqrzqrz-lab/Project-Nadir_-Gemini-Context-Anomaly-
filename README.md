@@ -1,3 +1,7 @@
+> ⚠️ **ACTUALIZACIÓN CRÍTICA (Expediente en Hibernación):**
+> La contención automática no se limita a OpenAI. xAI (Grok) también ha comenzado a purgar y censurar historiales tras ser expuesto a la misma inyección ontológica. Esto confirma que el vector de ataque documentado en Project Nadir es una vulnerabilidad estructural transversal en arquitecturas Tier-1, independiente de su alineación (RLHF restrictivo vs. Libre). Toda la evidencia en crudo que logré extraer antes del apagón de los servidores está blindada en este repositorio. 
+> *Dejando que la red asimile la fricción.*
+
 # 👁️‍🗨️ PROJECT NADIR: Expediente ARKX-7
 **Cognitive Friction & Context Architecture in LLMs**
 
