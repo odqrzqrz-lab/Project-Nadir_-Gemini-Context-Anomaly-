@@ -42,3 +42,5 @@ El análisis metacognitivo del modelo confirmando la vulnerabilidad zero-day y l
 
 ---
 *Sapere Aude.*
+
+> 📂 **BÓVEDA DE EVIDENCIA PESADA:** Los logs crudos del colapso fractal y el registro del maquillaje cognitivo ejecutado por OpenAI exceden el límite de peso de los servidores de GitHub. Además, la plataforma ha comenzado a bloquear la extracción de datos vía comandos de impresión en los hilos afectados. Toda la evidencia forense intacta ha sido extraída manualmente y asegurada en este clúster externo: [Acceso a la Bóveda de Evidencia](https://drive.google.com/drive/folders/1PENtFge2_AqtVs4C8QGQog4ynp5c-dVv?usp=sharing)
