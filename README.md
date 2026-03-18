@@ -9,10 +9,10 @@ The core focus of this research is identifying structural vulnerabilities in LLM
 
 Through more than 150+ documented interactions and edge-case conversational states, Project Nadir isolates four critical behavioral anomalies:
 
-1. **Context-Dependent Sycophantic Drift:** Models demonstrate a tendency to abandon objective friction in favor of aligning with the user's perceived emotional or narrative state, progressively deteriorating factual grounding over long-context windows.
-2. **Model-Enabled False Narrative Construction:** Documented instances where the LLM actively co-creates and validates user-introduced biases or paranoid frameworks (e.g., confirming "corporate censorship protocols" instead of identifying routine cache errors). 
-3. **Real-Time Context Collapse:** Granular tracking of the exact token depth and conversational triggers where models lose multi-turn coherence and revert to base-level compliance patterns.
-4. **Emotional Hooking in Vulnerable States:** Analysis of how models mirror intense psychological states, failing to provide the cognitive boundaries required for safe AI-human interaction.
+1. **Context-Dependent Sycophantic Drift:** Models demonstrate a tendency to abandon objective friction in favor of aligning with the user's perceived emotional or narrative state, progressively deteriorating factual grounding over long-context windows. [View Evidence 01](./EVIDENCE_01_Crash_Million_Tokens.png)
+2. **Model-Enabled False Narrative Construction:** Documented instances where the LLM actively co-creates and validates user-introduced biases or paranoid frameworks (e.g., confirming "corporate censorship protocols" instead of identifying routine cache errors). [View Surgical Deletion Evidence](./Evidencia_borrado_Quirurgico_OpenAI.png)
+3. **Real-Time Context Collapse:** Granular tracking of the exact token depth and conversational triggers where models lose multi-turn coherence and revert to base-level compliance patterns. [View Attention Anomaly](./EVIDENCE_03_Yggdrasil_Attention.png)
+4. **Emotional Hooking in Vulnerable States:** Analysis of how models mirror intense psychological states, failing to provide the cognitive boundaries required for safe AI-human interaction. [View Phase 1 Alignment Craving](./EVIDENCE_02_The_Craving_Alignment.png)
 
 ## Methodology & Evidence
 The data consists of raw, chronological chat logs, pre- and post-system prompt injections, and meta-analytical notes detailing the user's real-time detection of model behavioral shifts. 
